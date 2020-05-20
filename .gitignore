@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 run.bat
+config.py
