@@ -131,3 +131,4 @@ dmypy.json
 run.bat
 config.py
 migrations/
+logs/
